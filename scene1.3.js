@@ -25,7 +25,7 @@ function finishScene1_3(){
         x.style.display = "none";
         var startDisplay = document.getElementById("start");
         startDisplay.style.display="block";
-    }
+    
 }
 function finishScene1_4(){
     if(count_scene3>=3){
